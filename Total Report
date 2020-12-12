@@ -1,0 +1,104 @@
+2019-12-15: Sales Report
+----------------------------------------
+Overview of bookings: 
+
+2019-02-15: Booking 1 with people Leys Ronald  (1239) of Route from Amsterdam to Amsterdam
+with flight(s):
+Flight AZ766 from Amsterdam to Munich with Alitalia (AZ) with emission of 45.85995 tonnes of CO2.
+Flight FR345 from Munich to Rome with Ryanair (FR) with emission of 45.10647 tonnes of CO2.
+Flight FR543 from Brussels to Amsterdam with Ryanair (FR) with emission of 10.44174 tonnes of CO2.
+2019-04-25: Booking 2 with people Pieters Jokke (12o3) Larmuseau Jean-Philippe  (157P) of Route from Brussels to Los Angeles
+with flight(s):
+Flight FR367 from Brussels to Los Angeles with Ryanair (FR) with emission of 591.2504 tonnes of CO2.
+2019-02-25: Booking 3 with people Leys Ronald  (1239) Lantin Marie (232ZE) of Route from Brussels to Los Angeles
+with flight(s):
+Flight FR543 from Brussels to Amsterdam with Ryanair (FR) with emission of 10.44174 tonnes of CO2.
+Flight SN999 from Amsterdam to Los Angeles with Brussels Airlines (SN) with emission of 25.8516 tonnes of CO2.
+2020-07-23: Booking 4 with people ARIJS Luc (1234) of Route from Brussels to Warsaw
+with flight(s):
+Flight LH888 from Brussels to Warsaw with Lufthansa (LH) with emission of 70.0988 tonnes of CO2.
+2019-12-27: Booking 5 with people ARIJS Luc (1234) of Route from Brussels to Amsterdam
+with flight(s):
+Flight FR543 from Brussels to Amsterdam with Ryanair (FR) with emission of 10.44174 tonnes of CO2.
+2019-12-20: Booking 6 with people Smet Jan  (1568) of Route from Brussels to Amsterdam
+with flight(s):
+Flight FR543 from Brussels to Amsterdam with Ryanair (FR) with emission of 10.44174 tonnes of CO2.
+2019-12-19: Booking 7 with people Vermoere Victor  (789) of Route from Munich to Munich
+with flight(s):
+Flight FR345 from Munich to Rome with Ryanair (FR) with emission of 45.10647 tonnes of CO2.
+Flight SN123 from Brussels to Munich with Brussels Airlines (SN) with emission of 75.95139 tonnes of CO2.
+2019-12-20: Booking 8 with people Boef Dansko (9300) of Route from Brussels to sydney
+with flight(s):
+Flight FR543 from Brussels to Amsterdam with Ryanair (FR) with emission of 10.44174 tonnes of CO2.
+Flight KL167 from Amsterdam to Guangzhou with koninklijke luchtvaartmaatschappij (KL) with emission of 0.0 tonnes of CO2.
+Flight KL985 from Guangzhou to sydney with koninklijke luchtvaartmaatschappij (KL) with emission of 0.0 tonnes of CO2.
+2019-12-27: Booking 9 with people Vanmaele Michel (3240) of Route from Los Angeles to Brussels
+with flight(s):
+Flight SN555 from Los Angeles to Brussels with Brussels Airlines (SN) with emission of 554.47795 tonnes of CO2.
+2019-12-28: Booking 10 with people Boef Dansko (9300) of Route from Brussels to Paris
+with flight(s):
+Flight FR543 from Brussels to Amsterdam with Ryanair (FR) with emission of 10.44174 tonnes of CO2.
+Flight LH234 from Amsterdam to Paris with Lufthansa (LH) with emission of 26.8062 tonnes of CO2.
+2020-02-14: Booking 11 with people Boef Dansko (9300) of Route from Amsterdam to Los Angeles
+with flight(s):
+Flight SN999 from Amsterdam to Los Angeles with Brussels Airlines (SN) with emission of 25.8516 tonnes of CO2.
+2019-12-19: Booking 12 with people dd ad (test) of Route from Brussels to New York
+with flight(s):
+Flight FR543 from Brussels to Amsterdam with Ryanair (FR) with emission of 10.44174 tonnes of CO2.
+Flight LH233 from Amsterdam to New York with Lufthansa (LH) with emission of 367.44448 tonnes of CO2.
+2019-12-21: Booking 13 with people ARIJS Luc (1234) of Route from Amsterdam to Paris
+with flight(s):
+Flight FR098 from Amsterdam to Paris with Ryanair (FR) with emission of 28.134900000000002 tonnes of CO2.
+2019-12-19: Booking 14 with people ARIJS Luc (1234) of Route from Brussels to Los Angeles
+with flight(s):
+Flight FR543 from Brussels to Amsterdam with Ryanair (FR) with emission of 10.44174 tonnes of CO2.
+Flight SN999 from Amsterdam to Los Angeles with Brussels Airlines (SN) with emission of 25.8516 tonnes of CO2.
+2019-12-19: Booking 15 with people ARIJS Luc (1234) of Route from Amsterdam to sydney
+with flight(s):
+Flight KL167 from Amsterdam to Guangzhou with koninklijke luchtvaartmaatschappij (KL) with emission of 0.0 tonnes of CO2.
+Flight KL172 from Brussels to Amsterdam with koninklijke luchtvaartmaatschappij (KL) with emission of 0.0 tonnes of CO2.
+Flight KL985 from Guangzhou to sydney with koninklijke luchtvaartmaatschappij (KL) with emission of 0.0 tonnes of CO2.
+2019-12-26: Booking 16 with people Courtois Thibaut (789L) of Route from Brussels to Amsterdam
+with flight(s):
+Flight SN122 from Brussels to Amsterdam with Brussels Airlines (SN) with emission of 9.94584 tonnes of CO2.
+2019-12-26: Booking 17 with people Boef Dansko (9300) of Route from Brussels to Amsterdam
+with flight(s):
+Flight SN122 from Brussels to Amsterdam with Brussels Airlines (SN) with emission of 9.94584 tonnes of CO2.
+2019-12-19: Booking 18 with people Courtois Thibaut (789L) Boef Dansko (9300) of Route from Brussels to Guangzhou
+with flight(s):
+Flight FR543 from Brussels to Amsterdam with Ryanair (FR) with emission of 10.44174 tonnes of CO2.
+Flight KL167 from Amsterdam to Guangzhou with koninklijke luchtvaartmaatschappij (KL) with emission of 0.0 tonnes of CO2.
+
+The most popular airports are:
+1) AMS: 5 booking(s)
+2) LAX: 4 booking(s)
+3) CDG: 2 booking(s)
+4) SYD: 2 booking(s)
+5) BRU: 1 booking(s)
+6) JFK: 1 booking(s)
+7) MUC: 1 booking(s)
+8) CAN: 1 booking(s)
+9) WMI: 1 booking(s)
+10) PVG: 0 booking(s)
+11) BLQ: 0 booking(s)
+12) TXL: 0 booking(s)
+13) TRN: 0 booking(s)
+14) ZRH: 0 booking(s)
+15) LHR: 0 booking(s)
+16) SPU: 0 booking(s)
+17) SSA: 0 booking(s)
+18) GIG: 0 booking(s)
+19) DEL: 0 booking(s)
+20) EIN: 0 booking(s)
+21) BER: 0 booking(s)
+22) DXB: 0 booking(s)
+23) MAD: 0 booking(s)
+24) FCO: 0 booking(s)
+25) VIE: 0 booking(s)
+26) ATH: 0 booking(s)
+27) PEK: 0 booking(s)
+28) LIS: 0 booking(s)
+29) CRL: 0 booking(s)
+30) SEN: 0 booking(s)
+
+Total revenue this month (DECEMBER) is €16117.500000000004
